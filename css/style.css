@@ -6,3 +6,6 @@
     color: indigo;
 }
 
+img.d-block {
+    min-height: 100px;
+}
